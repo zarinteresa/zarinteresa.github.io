@@ -16,7 +16,7 @@ sections:
     design:
       # Hugo date format
       date_format: 'January 2024'
-      # Education or Experience section first?
+      # Education or Experience section first? change
       is_education_first: false
   - block: resume-skills
     content:

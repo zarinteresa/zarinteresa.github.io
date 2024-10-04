@@ -60,7 +60,7 @@ Provide a simple yet fun self-assessment by revealing the solutions to challenge
 You found me!
 {{</* /spoiler */>}}
 ```
-
+#change
 renders as
 
 {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}

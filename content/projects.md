@@ -4,7 +4,7 @@ date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
+  # Section spacing change
   spacing: '5rem'
 
 # Page sections
