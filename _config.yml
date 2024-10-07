@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rasika Bhalerao, Ph.D."
+title                    : "Zarin Sabah Teresa"
 title_separator          : "-"
-name                     : &name "Rasika Bhalerao, Ph.D."
+name                     : &name "Zarin Sabah Teresa"
 description              : &description "I am an Assistant Teaching Professor at the Northeastern University Khoury College of Computer Sciences. She/her."
 url                      : https://rasikabh.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
