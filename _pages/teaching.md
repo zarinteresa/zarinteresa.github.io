@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Courses"
-permalink: coursework/
+permalink: teaching/
 author_profile: true
 
 ---
