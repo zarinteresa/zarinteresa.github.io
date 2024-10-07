@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Courses"
+title: "Academic Information"
 permalink: coursework/
 author_profile: true
 
@@ -17,8 +17,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### Jahangirnagar University, Institute of Information Technology (IIT) | 2019 - 2024
 - **CGPA**: 3.76/4.00
 <!-- - **[View Transcripts](https://your-link-to-transcripts.com)** -->
-
-<br/>
 
 ### Key Courses Completed
 
