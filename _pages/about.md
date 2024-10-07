@@ -15,7 +15,8 @@ Throughout my academic journey, I have gained foundational knowledge in several 
 
 <!-- <img src="/images/zarinteresa.jpg" width="200"> -->
 
-## News
+<!-- ## News
 
--I have recently completed my research on skin lesion classification using deep learning techniques.
--I am currently exploring new opportunities to collaborate on interdisciplinary tech projects that address real-world problems.
+-I have recently completed my research on skin lesion classification using deep learning techniques. 
+
+-I am currently exploring new opportunities to collaborate on interdisciplinary tech projects that address real-world problems. -->
