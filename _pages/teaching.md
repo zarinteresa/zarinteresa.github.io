@@ -22,63 +22,45 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Key Courses Completed
 
-##### Structured Programming Language (C)
-- Structured Programming Language Lab
-##### Electrical Circuit
-- Electrical Circuit Lab
-##### Physics
-##### Differential and Integral Calculus
-##### Electrical Device and Circuit
-- Electrical Device and Circuit Lab
-##### Object Oriented Programming (Java)
-- Object Oriented Programming Lab
-##### Linear Algebra and Analytical Geometry
-##### Discrete Mathematics
-##### Data Structure
-- Data Structure Lab
-##### Digital Logic Design
-- Digital Logic Design Lab
-##### Numerical Analysis
-- Numerical Analysis Lab
-##### Probability and Statistics for Engineers
-##### Data and Telecommunication
-##### Algorithm Analysis and Design
-- Algorithm Analysis Design and Lab
-##### Database Management Systems
-- Database Management Systems Lab
-##### Internet and Web Technology
-- Internet and Web Technology Lab
-##### Computer Architecture
-##### Financial and Managerial Accounting
-##### Operating System
-- Operating System Lab
-##### Computer Networks
-- Computer Networks Lab
-##### Theory of Computing
-##### Matrices, Vector, Fourier Analysis, and Laplace Transform
-##### Principles of Economics
-##### Industrial Attachment and Viva
-##### Software Engineering
-- Software Engineering Lab
-##### Microprocessor and Interfacing
-- Microprocessor and Interfacing Lab
-##### Signals and Systems
-##### E-Commerce and E-Governance
-##### Simulation Modeling
-##### Artificial Intelligence
-- Artificial Intelligence Lab
-##### Digital Signal Processing
-- Digital Signal Processing Lab
-##### Parallel and Distributed Systems
-##### Mobile Application Development Lab
-##### Wireless Networks
-##### Human-Computer Interaction
-- Digital Image Processing Lab
-##### Computer Graphics and Animation
-##### Object Oriented Software Engineering
-##### Cryptography and Network Security
-##### Machine Learning
-##### Research Project 
+#### Structured Programming Language (C)
+#### Object Oriented Programming (Java)
+#### Data Structure
+#### Algorithm Analysis and Design
+#### Database Management Systems
+#### Internet and Web Technology
+#### Software Engineering
+#### Object Oriented Software Engineering
+#### Artificial Intelligence
+#### Machine Learning
+#### Mobile Application Development
+#### Human-Computer Interaction
+#### Electrical Circuit
+#### Electrical Device and Circuit
+#### Digital Logic Design
+#### Microprocessor and Interfacing
+#### Signals and Systems
+#### Digital Signal Processing
+#### Physics
+#### Differential and Integral Calculus
+#### Linear Algebra and Analytical Geometry
+#### Discrete Mathematics
+#### Numerical Analysis
+#### Probability and Statistics for Engineers
+#### Matrices, Vector, Fourier Analysis, and Laplace Transform
+#### Simulation and Modeling
+#### Theory of Computing
+#### Data and Telecommunication
+#### Computer Networks
+#### Wireless Networks
+#### Cryptography and Network Security
+#### Computer Architecture
+#### Operating System
+#### Parallel and Distributed Systems
+#### Computer Graphics and Animation
+#### Financial and Managerial Accounting
+#### Principles of Economics
+#### E-Commerce and E-Governance
+#### Research Project 
 
 
 <br/>
