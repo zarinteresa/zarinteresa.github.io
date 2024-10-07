@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: teaching/
+title: "Academic Courses"
+permalink: coursework/
 author_profile: true
 
 ---
@@ -13,30 +13,72 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Assistant Teaching Professor at Northeastern University Khoury College of Computer Sciences
-#### Fundamentals of Computer Science I (Undergrad) | Fall 2023, Fall 2024
-#### Fundamentals of Computer Science II (undergrad) | Spring 2024
-#### Intensive Foundations of Computer Science [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Fall 2023
-#### Object-oriented Design [(Align Program)](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) | Fall 2022, Spring 2023, Summer 2023, Spring 2024
-#### Labs for Fundamentals of Computer Science I and II (Undergrad) | Fall 2022, Spring 2023
-#### Graduate Natural Language Processing | [Fall 2023](https://rasikabh.github.io/nlp2023/)
-#### Graduate Foundations of AI | [Summer 2024](https://rasikabh.github.io/ai2024su/), [Fall 2024](https://rasikabh.github.io/ai2024f/)
+### B.Sc. in Information and Communication Technology (ICT)
+#### Jahangirnagar University, Institute of Information Technology (IIT) | 2019 - 2024
+- **CGPA**: 3.76/4.00
+<!-- - **[View Transcripts](https://your-link-to-transcripts.com)** -->
+
 <br/>
 
-### Mills Educational Talent Search
-#### [Computer Science Summer Instructor | Summer 2024](https://mets.sites.northeastern.edu/)
-<br/>
+### Key Courses Completed
 
-### Lecturer at UC Berkeley School of Information
-#### [Applied Machine Learning | Fall 2021, Spring 2022, Fall 2022](https://github.com/MIDS-W207/rasikabh/tree/main/live_sessions)
-<br/>
+##### Structured Programming Language (C)
+- Structured Programming Language Lab
+##### Electrical Circuit
+- Electrical Circuit Lab
+##### Physics
+##### Differential and Integral Calculus
+##### Electrical Device and Circuit
+- Electrical Device and Circuit Lab
+##### Object Oriented Programming (Java)
+- Object Oriented Programming Lab
+##### Linear Algebra and Analytical Geometry
+##### Discrete Mathematics
+##### Data Structure
+- Data Structure Lab
+##### Digital Logic Design
+- Digital Logic Design Lab
+##### Numerical Analysis
+- Numerical Analysis Lab
+##### Probability and Statistics for Engineers
+##### Data and Telecommunication
+##### Algorithm Analysis and Design
+- Algorithm Analysis Design and Lab
+##### Database Management Systems
+- Database Management Systems Lab
+##### Internet and Web Technology
+- Internet and Web Technology Lab
+##### Computer Architecture
+##### Financial and Managerial Accounting
+##### Operating System
+- Operating System Lab
+##### Computer Networks
+- Computer Networks Lab
+##### Theory of Computing
+##### Matrices, Vector, Fourier Analysis, and Laplace Transform
+##### Principles of Economics
+##### Industrial Attachment and Viva
+##### Software Engineering
+- Software Engineering Lab
+##### Microprocessor and Interfacing
+- Microprocessor and Interfacing Lab
+##### Signals and Systems
+##### E-Commerce and E-Governance
+##### Simulation Modeling
+##### Artificial Intelligence
+- Artificial Intelligence Lab
+##### Digital Signal Processing
+- Digital Signal Processing Lab
+##### Parallel and Distributed Systems
+##### Mobile Application Development Lab
+##### Wireless Networks
+##### Human-Computer Interaction
+- Digital Image Processing Lab
+##### Computer Graphics and Animation
+##### Object Oriented Software Engineering
+##### Cryptography and Network Security
+##### Machine Learning
+##### Research Project 
 
-### Instructor at New York University Tandon School of Engineering
-#### [Grad Natural Language Processing | Fall 2020](https://rasikabh.github.io/nlp2020/)
-#### Grad/Undergrad Network Security | Spring 2020
-#### Grad/Undergrad Security Analytics | Fall 2019
-#### Grad Artificial Intelligence | Spring 2019
-<br/>
 
-### Teaching Assistant for Computer Science I/II at University of Washington (CSE 142/143/143X)
-#### Jan 2015 - June 2017
+<br/>
