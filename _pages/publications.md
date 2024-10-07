@@ -5,7 +5,7 @@ permalink: publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -47,4 +47,4 @@ Maxwell Aliapoulios, Cameron Ballard, **Rasika Bhalerao**, Tobias Lauinger, Damo
 
 Victoria Chayes, Kevin Miller, **Rasika Bhalerao**, Jiajie Luo, Wei Zhu, Andrea L. Bertozzi, Wenzhi Liao, Stanley Osher, “[Pre-processing and classification of hyperspectral imagery via selective inpainting](https://www.math.ucla.edu/~bertozzi/papers/ICASSP2017-final.pdf),” 2017 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2017)**, New Orleans, LA, 2017, pp. 6195-6199, doi: 10.1109/ICASSP.2017.7953347.
 
-\* indicates equal contribution.
+\* indicates equal contribution. -->
