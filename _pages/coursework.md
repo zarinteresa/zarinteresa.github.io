@@ -22,45 +22,69 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 ### Key Courses Completed
 
-#### Structured Programming Language (C)
-#### Object Oriented Programming (Java)
-#### Data Structure
-#### Algorithm Analysis and Design
-#### Database Management Systems
-#### Internet and Web Technology
-#### Software Engineering
-#### Object Oriented Software Engineering
-#### Artificial Intelligence
-#### Machine Learning
-#### Mobile Application Development
-#### Human-Computer Interaction
-#### Electrical Circuit
-#### Electrical Device and Circuit
-#### Digital Logic Design
-#### Microprocessor and Interfacing
-#### Signals and Systems
-#### Digital Signal Processing
-#### Physics
-#### Differential and Integral Calculus
-#### Linear Algebra and Analytical Geometry
-#### Discrete Mathematics
-#### Numerical Analysis
-#### Probability and Statistics for Engineers
-#### Matrices, Vector, Fourier Analysis, and Laplace Transform
-#### Simulation and Modeling
-#### Theory of Computing
-#### Data and Telecommunication
-#### Computer Networks
-#### Wireless Networks
-#### Cryptography and Network Security
-#### Computer Architecture
-#### Operating System
-#### Parallel and Distributed Systems
-#### Computer Graphics and Animation
-#### Financial and Managerial Accounting
-#### Principles of Economics
-#### E-Commerce and E-Governance
-#### Research Project 
+#### First Year Courses
+##### Introduction to ICT
+##### Structured Programming Language (C)
+##### Electrical Circuit
+##### Physics
+##### Differential and Integral Calculus
+##### Electrical Device and Circuit
+##### Object Oriented Programming (Java)
+##### Linear Algebra and Analytical Geometry
+##### Discrete Mathematics
+
+#### Second Year Courses
+##### Data Structure
+##### Digital Logic Design
+##### Numerical Analysis
+##### Probability and Statistics for Engineers
+##### Data and Telecommunication
+##### Algorithm Analysis and Design
+##### Database Management Systems
+##### Internet and Web Technology
+##### Computer Architecture
+##### Financial and Managerial Accounting
+
+#### Third Year Courses
+##### Operating System
+##### Computer Networks
+##### Theory of Computing
+##### Matrices, Vector, Fourier Analysis, and Laplace Transform
+##### Principles of Economics
+##### Software Engineering
+##### Microprocessor and Interfacing
+##### Signals and Systems
+##### E-Commerce and E-Governance
+##### Simulation and Modeling
+
+#### Fourth Year Courses
+##### Artificial Intelligence
+##### Digital Signal Processing
+##### Parallel and Distributed Systems
+##### Mobile Application Development
+##### Wireless Networks
+##### Human-Computer Interaction
+##### Digital Image Processing
+##### Computer Graphics and Animation
+##### Object Oriented Software Engineering
+##### Cryptography and Network Security
+##### Machine Learning
+##### Research Project 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br/>
