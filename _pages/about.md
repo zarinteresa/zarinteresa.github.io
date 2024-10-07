@@ -13,7 +13,7 @@ Hi! I have completed my B.Sc. in Information and Communication Technology (ICT) 
 
 Throughout my academic journey, I have gained foundational knowledge in several programming languages, including C, C++, Python, Java, PHP, as well as web technologies like HTML, CSS, and JavaScript. I have applied this knowledge in various projects, collaborating with teams and contributing meaningfully to research, especially in the area of deep learning for skin lesion classification and segmentation. My interest lies in expanding my knowledge further and working on diverse, innovative projects.
 
-<img src="/images/zarinteresa.jpg" width="200">
+<!-- <img src="/images/zarinteresa.jpg" width="200"> -->
 
 ## News
 
