@@ -22,12 +22,14 @@ Zarin Sabah Teresa ("Teresa", she/her). B.Sc. in ICT, Institute of Information T
 
 ## Portfolio website (this repo)
 Plain static site, no build step, deployed by GitHub Pages from `master`.
-- `index.html` — all content; Home and Courses views, hash-routed (`#/home`, `#/projects`, `#/courses`)
+- `index.html` — all content; Home and Courses views, hash-routed (`#/home`, `#/projects`, `#/cv`, `#/courses`)
 - `assets/css/style.css` — light/dark themes via CSS variables
 - `assets/js/main.js` — theme toggle, routing, avatar hover effect
 - Preview: `python3 -m http.server` → http://localhost:8000
 - Keep it dependency-free. The Projects page currently holds three **concept** projects (labeled "Concept", not built — see `docs/projects.md`); never present them as completed work or add results/metrics. Publications only with real content.
 - Active branch for the rewrite: `refactor-static` (not yet merged to `master`).
+
+- The CV page embeds `assets/Zarin_Sabah_Teresa_CV.pdf` (public, includes phone number — Teresa chose this). To update the CV, replace that file.
 
 ## Commands
 - Run Claude Code without permission prompts: `claude --dangerously-skip-permissions` (also noted in `claude-important-commands.txt`)
