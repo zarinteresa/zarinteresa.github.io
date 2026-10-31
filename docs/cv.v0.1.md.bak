@@ -1,0 +1,68 @@
+# Zarin Sabah Teresa — Master CV (draft v0.1)
+
+> Master version: keeps *everything*. Trim to 1–2 pages per application. Source: `CV_ZARIN_SABAH_TERESA.pdf`.
+> `TODO(Teresa)` = missing info I won't guess.
+
+**Contact:** zarin.teresa10@gmail.com · +880 1556-312437 · linkedin.com/in/zteresa · github.com/zarinteresa · Mirpur, Dhaka, Bangladesh
+TODO(Teresa): website link (zarinteresa.github.io once live)
+
+## Research Interests
+TODO(Teresa): 2–3 lines once motivation is decided (see `docs/research-motivation.md`). Candidate threads from your record: deep learning for medical imaging (skin lesions); human-centered / user-facing systems (e-commerce platform, Figma design); computing education (teaching kids).
+
+## Education
+**B.Sc. in Information and Communication Technology** — Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh · Feb 2019 – Sept 2024
+- CGPA 3.76 / 4.00
+- TODO(Teresa): class rank / percentile? graduating honors or merit scholarships? Add only if true.
+- Selected coursework: Data Structures and Algorithms, Database Management Systems, Operating Systems, Theory of Computing, Machine Learning, Computer Networks, Human-Computer Interaction, Digital Image Processing, Artificial Intelligence, Software Engineering (full list on the website Courses page)
+- TODO(Teresa): thesis/research project supervisor name and title
+
+## Research Experience
+**Skin Lesion Classification and Segmentation** — undergraduate research project, IIT JU · 2023 – 2024
+- Studied classification and segmentation of skin lesion images with deep-learning techniques.
+- Tools: Python, Keras, OpenCV, Scikit-learn.
+- TODO(Teresa): dataset (e.g. ISIC?), models used, metrics/results (accuracy, Dice/IoU), your role vs. teammates, supervisor, any thesis/paper/preprint. *This is the strongest item; the numbers matter most.*
+
+## Projects
+**E-Commerce Platform** · 2023 — Campus marketplace where university students buy and resell products. HTML, CSS, Bootstrap, JavaScript, PHP. TODO: team size, your role, users/demo link, repo.
+
+**Rainfall and Temperature Forecasting using Machine Learning** · 2023 — Prediction models using linear regression, polynomial regression, sliding-window correlation and artificial neural networks. Python, Pandas, NumPy. TODO: data source, best model, error metric.
+
+**Automated Library Management System** · 2023 — QR-code scanning system to automate book tracking and lending, reducing manual data-entry errors and giving real-time availability. Arduino, ESP32-CAM (WiFi + Bluetooth). TODO: team/role, tested with how many books/users?
+
+**Class Routine Management System (design)** · 2023 — Design of a platform for department class routines: course details, time slots, faculty assignments. Figma. TODO: user research done? screens/prototype link.
+
+## Teaching & Leadership
+**Programming Instructor, CodexPro Bangladesh** · Oct 2022 – Jul 2023
+- Taught Scratch and Python to students aged 7–17.
+- Guided students through real projects (games, animations, simple apps).
+- Tracked progress and gave feedback to each student.
+- TODO(Teresa): number of students/classes, any outcomes.
+
+**Treasurer, IEEE Women in Engineering (WIE), Jahangirnagar University** · Apr 2022 – Apr 2023
+- Worked with the team to plan and run technical workshops, seminars and networking events.
+- TODO(Teresa): budget managed, events/attendance, other IEEE WIE roles before/after.
+
+## Skills
+- **Languages:** Python, C, C++, Java, JavaScript, PHP
+- **Libraries/frameworks:** Keras, Scikit-learn, OpenCV, Pandas, NumPy, Bootstrap
+- **Databases:** MySQL
+- **Tools:** Figma, Arduino/ESP32, MS Office
+- TODO(Teresa): qualitative/research skills you have or want to show (surveys, interviews, usability testing, SPSS/NVivo, LaTeX…)
+
+## Publications / Presentations
+None yet. TODO(Teresa): was the skin-lesion work presented at a department symposium or submitted anywhere?
+
+## Honors, Awards, Scholarships
+TODO(Teresa): none listed in your current CV — any dean's list, scholarships, competitions, hackathons?
+
+## Tests (US applications)
+TODO(Teresa): GRE? (many programs now optional), TOEFL/IELTS/Duolingo score + date. Check each program's requirements.
+
+## References (for LOR)
+TODO(Teresa): 3 recommenders (ideally project supervisor + 2 faculty who know you well).
+
+---
+### Notes for tailoring (not part of the CV)
+- Current PDF's "About Me" is generic; replace with a Research Interests section — admissions committees read that instead.
+- The projects section is the main lever: add measurable results and your exact role.
+- Dates: PDF says Feb 2019 – Sept 2024; website says 2019–2024. Confirm the exact end date (degree vs. result vs. convocation).
