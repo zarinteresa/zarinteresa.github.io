@@ -1,7 +1,8 @@
 .DS_Store
-# personal contact details (phone) — keep local; repo is public
-CV_ZARIN_SABAH_TERESA.pdf
-docs/cv.md
-docs/cv.html
-schlow-onboarding.pdf
-Gmail - Schlow Library Foundation Ambassadors.pdf
+# This repo is PUBLIC (served by GitHub Pages). Working notes live in the
+# private repo ~/Teresa-Grad-Studies/website-notes and are symlinked here.
+/CLAUDE.md
+/docs
+/claude-important-commands.txt
+*.pdf
+!assets/Zarin_Sabah_Teresa_CV.pdf
