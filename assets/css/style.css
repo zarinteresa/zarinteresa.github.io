@@ -46,7 +46,7 @@ h2::after, h1.page-title::after { content: ""; display: block; width: 36px; heig
 .card + .card { margin-top: 1rem; }
 .badge { display: inline-block; font-size: .75rem; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 0 .6rem; margin-bottom: .4rem; }
 .meta, .note { color: var(--muted); font-size: .9rem; }
-.card { background: var(--card); border-radius: 8px; padding: 1rem 1.2rem; } .card h3 { margin: 0 0 .3rem; font-size: 1.05rem; } .card p { margin: 0; }
+.card { background: var(--card); border-radius: 8px; padding: 1rem 1.2rem; } .card h3, .card .card-title { margin: 0 0 .3rem; font-size: 1.05rem; color: inherit; text-transform: none; letter-spacing: normal; } .card .card-title::after { display: none; } .card p { margin: 0; }
 .tags { list-style: none; display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; }
 .tags li { background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: .1rem .8rem; font-size: .9rem; }
 details { border-bottom: 1px solid var(--line); padding: .6rem 0; }
