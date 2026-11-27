@@ -10,17 +10,9 @@
     try { localStorage.setItem('theme', root.dataset.theme); } catch (e) {}
   });
 
-  // hash routing: #/home, #/courses
-  var pages = document.querySelectorAll('.page');
-  var links = document.querySelectorAll('[data-route]');
-  function route() {
-    var name = (location.hash.match(/^#\/(\w+)/) || [, 'home'])[1];
-    if (!document.getElementById(name)) name = 'home';
-    pages.forEach(function (p) { p.hidden = p.id !== name; });
-    links.forEach(function (a) { a.classList.toggle('active', a.dataset.route === name); });
-  }
-  window.addEventListener('hashchange', route);
-  route();
+  // old links like /#/projects now have real pages
+  var old = location.hash.match(/^#\/(projects|courses|cv)\b/);
+  if (old) location.replace('/' + old[1] + '/');
 
   // avatar rings follow the pointer
   var av = document.getElementById('avatar');
