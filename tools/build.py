@@ -66,6 +66,7 @@ HEAD = """<!doctype html>
   <title>{title}</title>
   <meta name="description" content="{desc}">
   <meta name="author" content="{name}">
+  <meta name="google-site-verification" content="Z8w7jApubOW_Wm3F71XZFdB7NtA5iTuq6Iqc0Dke5SE">
   {robots}<link rel="canonical" href="{url}">
   <meta property="og:type" content="{og_type}">
   <meta property="og:site_name" content="{name}">
